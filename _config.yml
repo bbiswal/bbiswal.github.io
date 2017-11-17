@@ -1,7 +1,7 @@
 # Site settings
-title:       Pixyll
+title:       Blog by Bobby Biswal
 email:       your_email@example.com
-author:      John Otander
+author:      Bobby Biswal
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "http://pixyll.com"
