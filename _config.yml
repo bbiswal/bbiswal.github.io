@@ -1,14 +1,13 @@
 # Site settings
-title:       Blog by Bobby Biswal
+title:       The Inercial Blog
 email:       your_email@example.com
 author:      Bobby Biswal
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "A blog for sharing the projects and thoughts of Bobby Biswal"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://www.inercial.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
 
 # Google services
 google_verification:
