@@ -18,3 +18,9 @@ Hopefully you'll find something here useful for your own interests or projects. 
   <img src='/images/bobbybiswal.jpg'/><br>
   <font style="font-size:10px">Ecuador: Volcano crater turned into lush farmland!</font>
 </p>
+
+You can also find me on:
+
+* [Facebook](https://facebook.com/biswal)
+* [Twitter](https://twitter.com/bobbybiswal)
+* [GitHub](https://github.com/bbiswal)
