@@ -4,7 +4,7 @@ email:       your_email@example.com
 author:      Bobby Biswal
 description: "A blog for sharing the projects and thoughts of Bobby Biswal"
 baseurl:     ""
-url:         "http://www.inercial.com"
+url:         "http://inercial.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
