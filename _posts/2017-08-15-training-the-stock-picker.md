@@ -85,4 +85,4 @@ score = model.evaluate(test_x, test_y,
 
 Note that if the data set is purely a time series set shuffle to `False`.
 
-I plan to discuss the results in a future post in detail.  For now, I can say that the stock picker was able to choose some stocks that outperformed the S&P 500 in the test set, however the performance gain wasn't significant enough to justify the risk of holding individual stocks.  Also it's difficult to evaluate how the model works for future stocks due to the long time horizon.
+I plan to discuss the results in a future post in detail.  For now, I can say that the stock picker was able to choose some stocks that outperformed the S&P 500 in the test set, however the performance gain wasn't significant enough to justify the risk of holding individual stocks.  Also it's challenging to evaluate how the model would work for future stock picks due to the long time horizon.
