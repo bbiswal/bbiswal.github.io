@@ -3,7 +3,7 @@ layout:     post
 title:      Building a Stock Picker
 date:       2017-07-10 09:32:19
 summary:    I've taken several online courses in machine learning, and I was interested in seeing if I could build a stock picker to choose stocks that could outperform the S&P 500.
-categories: 
+categories: machine-learning
 ---
 
 I've taken several online courses in machine learning, including:

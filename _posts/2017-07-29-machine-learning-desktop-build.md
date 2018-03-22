@@ -3,7 +3,7 @@ layout:     post
 title:      Machine Learning Desktop Build
 date:       2017-07-29 09:32:19
 summary:    For my machine learning applications, I thought it'd be best to have a dedicated desktop running Ubuntu.
-categories: 
+categories: machine-learning
 ---
 
 For my machine learning applications, I knew I could save a lot of time if I had a powerful desktop dedicated to training models.  I chose Ubuntu as my OS because most of the machine learning frameworks like CNTK and Tensorflow have dedicated images or install instructions for Ubuntu.

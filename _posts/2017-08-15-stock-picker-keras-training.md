@@ -3,7 +3,7 @@ layout:     post
 title:      Stock Picker Keras Training
 date:       2017-08-15 09:32:19
 summary:    To train the stock picker, I'll used a deep learning neural network model.  There are many machine learning frameworks that support Nvidia's GPUs and I settled on using Keras with Tensorflow.
-categories: machine learning
+categories: machine-learning
 ---
 
 ### Using Keras to Train a Stock Picker

@@ -3,7 +3,7 @@ layout:     post
 title:      Stock Fundamentals Training Data
 date:       2017-08-03 09:32:19
 summary:    There are many sources of stock pricing and fundamental data out on the Internet.  The challenge is to find sources that are free or affordable. 
-categories: machine learning
+categories: machine-learning
 ---
 
 ### Data Sources
