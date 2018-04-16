@@ -10,7 +10,7 @@ categories: machine-learning
 
 To train the stock picker, I'll used a deep learning neural network model.  There are many machine learning frameworks that support Nvidia's GPUs (see [Deep Learning Frameworks](https://developer.nvidia.com/deep-learning-frameworks)), but I settled on using Keras with Tensorflow.  I tried stand-alone Tensorflow, CNTK and Caffe, but found Keras the easiest to use without sacrificing much performance.  Keras also allowed me to easily adjust the batch size and training sample randomization.
 
-In my [previous post](/machine/learning/2017/08/03/stock-fundamentals-data-set/), I talked about building the stock fundamentals data training and test set.  Below, I'll describe a bit how I used the data set for training using Keras and Tensorflow.  Note that you can get started with Keras using one of their excellent [tutorials](https://blog.keras.io/category/tutorials.html).
+In my [previous post](/machine-learning/stock-fundamentals-training-data/), I talked about building the stock fundamentals data training and test set.  Below, I'll describe a bit how I used the data set for training using Keras and Tensorflow.  Note that you can get started with Keras using one of their excellent [tutorials](https://blog.keras.io/category/tutorials.html).
 
 First, I needed to define the columns from the fundamental data set I would be creating.  Note that I added some features related to short interest from another [data source](http://shortsqueeze.com/). I also added a column called `beat_sp500` that was set to `1` if it beat the S&P 500 by 2 percentage points for a 6 month time period.  
 
